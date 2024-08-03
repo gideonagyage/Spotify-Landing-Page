@@ -61,7 +61,7 @@ The `SpotifyLandingPage` component is the main component that orchestrates the r
 
 ## Live Demo
 
-Check out the live demo [here](https://gideon-agyage.web.app/).
+Check out the live demo [here](https://spotify-landing-page-gold.vercel.app/).
 
 ## Key Concepts
 
